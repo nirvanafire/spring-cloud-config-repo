@@ -5,3 +5,4 @@ spring:
     # password: 'ENC(+LzkOwV9fzzMyJa0RYv+lw==)'
     password: 'ENC(Ja6j7/SNH5lGiAS7XePOgw==)'
     password1: '{cipher}Ja6j7/SNH5lGiAS7XePOgw=='
+    password2: '{bcrypt}$2a$10$S2AKIizxFBY1/ICuKWJjCOA3.zI4UZmQUdfrRqqK9fZTsAO1kkUTi'
