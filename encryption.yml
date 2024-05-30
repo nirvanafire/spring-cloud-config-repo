@@ -3,6 +3,7 @@ spring:
     username: root
     # password: '{cipher}XcnnklRQc3BssooePSyE6Q=='
     # password: 'ENC(+LzkOwV9fzzMyJa0RYv+lw==)'
-    password: 'ENC(Ja6j7/SNH5lGiAS7XePOgw==)'
-    password1: '{cipher}Ja6j7/SNH5lGiAS7XePOgw=='
-    password2: '{bcrypt}$2a$10$S2AKIizxFBY1/ICuKWJjCOA3.zI4UZmQUdfrRqqK9fZTsAO1kkUTi'
+    # password: 'ENC(Ja6j7/SNH5lGiAS7XePOgw==)'
+    # password1: '{cipher}Ja6j7/SNH5lGiAS7XePOgw=='
+    # password2: '{bcrypt}$2a$10$S2AKIizxFBY1/ICuKWJjCOA3.zI4UZmQUdfrRqqK9fZTsAO1kkUTi'
+    password: 'ENC(UO0d85cuzH3fyJFBk0aAHMUOazqBOVdjS2CMhp3gmF0bXYmLPTdSgn4jrs0sd9j2)'
