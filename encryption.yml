@@ -2,4 +2,5 @@ spring:
   datasource:
     username: root
     # password: '{cipher}XcnnklRQc3BssooePSyE6Q=='
-    password: 'ENC(+LzkOwV9fzzMyJa0RYv+lw==)'
+    # password: 'ENC(+LzkOwV9fzzMyJa0RYv+lw==)'
+    password: 'ENC(z3u3o+swCI8V+DEAKZ3vmw==)'
